@@ -18,6 +18,8 @@ La aplicación permite centralizar la información de los requerimientos y facil
 
 El proyecto fue desarrollado como parte de la materia **Taller de Productividad Basado en Herramientas Tecnológicas** de la Universidad Tecmilenio.
 
+El proyecto fue diseñado para implementarse utilizando Java y está preparado para evolucionar hacia una arquitectura basada en Spring Boot y MySQL en futuras versiones.
+
 ---
 
 # Problema identificado
@@ -80,7 +82,7 @@ Spring Boot
 
 ↓
 
-Base de Datos
+Base de datos
 MySQL
 ```
 
@@ -127,8 +129,7 @@ Herramientas utilizadas:
 - Apache Maven 3.9 o superior
 - Git
 - GitHub
-- IntelliJ IDEA Community o Eclipse
-- MySQL Server 8
+- IntelliJ IDEA Community
 
 ## Servidores
 
@@ -136,20 +137,9 @@ Servidor Web
 
 - Apache Tomcat Embedded
 
-Servidor de Aplicación
-
-- Spring Boot
-
-Servidor de Base de Datos
-
-- MySQL 8
-
 ## Dependencias
 
-- Spring Boot Starter Web
-- Spring Data JPA
 - Hibernate
-- MySQL Connector
 - Maven
 - JUnit 5
 
@@ -405,8 +395,6 @@ Repositorio GitHub:
 
 https://github.com/CarlosGarcia1016/service-request-tracking-system
 
-Si el proyecto no se encuentra desplegado en la nube, se entrega el archivo:
-
 ```
 service-request-tracking-system.jar
 ```
@@ -416,8 +404,6 @@ service-request-tracking-system.jar
 # Tecnologías utilizadas
 
 - Java 17
-- Spring Boot
-- MySQL
 - Maven
 - Git
 - GitHub
