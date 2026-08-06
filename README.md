@@ -381,8 +381,7 @@ Realizar el Merge una vez aprobado el Pull Request.
 # Video de demostración
 
 Enlace al video:
-
-**(Agregar aquí el enlace de YouTube, Google Drive o OneDrive)**
+https://youtu.be/YzCuq8jkbZY
 
 El video incluye:
 
